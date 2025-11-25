@@ -1,1 +1,1 @@
-# best-hair-gel-for-men-1
+# best-hair-gel-for-men

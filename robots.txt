@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-hair-gel-for-men.page.dev/sitemap.xml
